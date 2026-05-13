@@ -1,0 +1,43 @@
+# Existing project notes are intentionally kept local.
+*.md
+!/README.md
+
+# Unreal Engine generated files
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/.vs/
+**/Build/
+**/build/
+**/build-*/
+**/Packaged/
+**/StagedBuilds/
+**/_BuildLogs/
+_BuildLogs/
+
+# IDE and local workspace files
+.vscode/
+**/.idea/
+**/Config/DefaultEditorPerProjectUserSettings.ini
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# Build products and debug symbols
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

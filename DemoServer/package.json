@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "description": "Legacy placeholder. The active DemoServer implementation is C++ in src/DemoServerMain.cpp."
+}
